@@ -1,0 +1,68 @@
+Package: Package: com.stem.network
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/carrier.deb
+Size: 24398
+MD5sum: f0789c0f885e72886a870bcdab01d2ef
+SHA1: 5a62b00f5a7f889bc19c8a2e60d7f9e6fdcb5d21
+SHA256: 24d8d2eb0ee207c80893ffe386afaad869fe6abed2ffb5ae07a9dc91e345f330
+Section: Tweaks
+Description: chance carrier name to anything you like
+Author: stem grade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.carrier
+Name: carrier
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.carrier/carrier.json
+
+Package: com.stem.lockscreen
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 532
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14)
+Filename: ./debs/lockscreen.deb
+Size: 24806
+MD5sum: e059ebf2f8c8a7d5222112e5bd9e62bf
+SHA1: 85701ba1df9ec486566f5ecb738f442575dec8ba
+SHA256: f974fb3a83c78f26a1f43f8198f90d1cf51b2bace61b1c1b334d49ece98203cb
+Section: Tweaks
+Description: chance lockscreen name to anything you like
+Author: stem grade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.lockit
+Name: Lockit
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.lockit/Lockit.json
+
+Package: com.stem.screenshoot
+Version: 6.0
+Architecture: iphoneos-arm
+Maintainer: stem grade
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15)
+Filename: ./debs/screenshoot.deb
+Size: 31778
+MD5sum: 89b8be6ce76fc2a5fecc5fc081f994b6
+SHA1: e9c2a5b496473d80e9923da863b6d85e7f5d3b18
+SHA256: 711da857692de1d7e393b6dcc2746b3ee29c9200a2bc8ddf4fbd230903fef882
+Section: Tweaks
+Description: Hold 2 finger at once on statue bar and swipe down to take screen shoot
+Author: stem grade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stem.screenshoot
+Name: Screen Shoot
+Sileodepiction: https://stemgrade.github.io/depictions/com.stem.screenshoot/screenshoot.json
+
+Package: com.stemgrade.nightsky
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: stemgrade
+Installed-Size: 300
+Filename: ./debs/nightsky.deb
+Size: 18650
+MD5sum: 2a90069d2f3b27c045d10ff1515003a0
+SHA1: f3b58576db660a8fc9fc460e23e643811bdb0392
+SHA256: 530e14934b27153bce9bbd215d927668c8e2585b2bd879612465d4fe3cf92ed7
+Section: Tweaks
+Description: Sky night enables premium
+Author: stemgrade
+Name: Night Sky Premium
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.nightsky/nightsky.json

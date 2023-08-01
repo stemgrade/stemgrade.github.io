@@ -1,0 +1,51 @@
+<package>
+	<id>com.stem.screenshoot</id>
+	<name>Screen Shoot</name>
+    <version>6.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+    <dependencies></dependencies>
+	<shortDescription>Hold 2 finger at once on statue bar and swipe down to take screen shoot much better this way</shortDescription>
+	<descriptionlist>
+		<description>Hold 2 finger at once on statue bar and swipe down to take screen shoot</description>
+<!--		<description><![CDATA[
+		You can also have<br/>
+		a multi-line item.
+		]]>
+	</description> -->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>2.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Support iOS 10.x - 14.x</change>
+	</changelog>
+	<links>
+                <link>
+			<name>Twitter</name>
+			<url>https://mobile.twitter.com/StemGrade</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+		<link>
+			<name>Donate PayPal</name>
+			<url>https://paypal.me/stem20</url>
+			<iconclass>fa fa-paypal</iconclass>
+		</link>
+	</links>
+</package>
+

@@ -1,0 +1,71 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                "accessibilityText": "Screenshot0",
+                "url": "https://stemgrade.github.io/depictions/com.stemgrade.lockit/screenshots/1.jpg"
+            },
+            {
+                "accessibilityText": "Screenshot1",
+                "url": "https://stemgrade.github.io/depictions/com.stemgrade.lockit/screenshots/2.jpg"
+            }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Compatibility iOS 10.x - 14.x</p> <p>En: chance lockscreen name to anything you like why not cool ya</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "04.09.2021",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "04.09.2021",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 3.0"},
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Support iOS 10.x - 14.x"
+            }
+         ]
+      }
+   ],
+}
