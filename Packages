@@ -64,5 +64,6 @@ SHA256: 530e14934b27153bce9bbd215d927668c8e2585b2bd879612465d4fe3cf92ed7
 Section: Tweaks
 Description: Sky night enables premium
 Author: stemgrade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.nightsky
 Name: Night Sky Premium
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.nightsky/nightsky.json
