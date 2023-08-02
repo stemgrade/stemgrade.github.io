@@ -1,9 +1,8 @@
 {
-   "minVersion":"0.1",
-   "headerImage":"https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/iconback.png",
-   "tintColor":"#fa2942",
-   "tabs":[
-      {
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
                "tabname": "Details",
                "views":[
             {
