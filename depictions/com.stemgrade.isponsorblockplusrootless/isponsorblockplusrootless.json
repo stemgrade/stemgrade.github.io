@@ -60,6 +60,7 @@
 
 
             {
+               "class": "DepictionTableTextView",
                "title":"Support",
                "class":"DepictionHeaderView"
             },
