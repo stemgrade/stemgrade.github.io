@@ -67,3 +67,21 @@ Author: stemgrade
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.nightsky
 Name: Night Sky Premium
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.nightsky/nightsky.json
+
+Package: com.galacticdev.stemgrade.isponsorblockplus
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Galactic Dev / stemgrade
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: ./debs/com.galacticdev.stemgrade.isponsorblockplus_1.0_iphoneos-arm.deb
+Size: 98986 
+MD5sum: 503615bd3e93667abb9b2225ce0016b0
+SHA1: a04ce02e896ae2911151a0242fe1723f2dac445a
+SHA256: 637ea8cedd6f600cd3abcceba6e9835b129a08bbaeb2079442782865ce77e981
+Section: Tweaks
+Description: SponsorBlock port for youtube added no video ads no search ads no shop promotion ads red player bar
+Author: Galactic Dev / stemgrade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.isponsorblockplus
+Name: iSponsorBlockPlus
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplus/isponsorblockplus.json

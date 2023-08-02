@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>1.0</version>
+		<change>Support iOS 13.x - 15.x i not test on ios 16x</change>
+	</changes>
+</changelog>

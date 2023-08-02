@@ -1,0 +1,71 @@
+{
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                "accessibilityText": "Screenshot0",
+                "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplus/screenshots/1.jpg"
+            },
+            {
+                "accessibilityText": "Screenshot1",
+                "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplus/screenshots/2.jpg"
+            }]
+            },
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "<p>Compatibility iOS 10.x - 14.x</p> <p>En: SponsorBlock port for youtube added no video ads no search ads no shop promotion ads red player bar and no premuim popup i added them tweaks in to make it better</p>",
+                "useSpacing": true,
+                "useRawFormat": true},
+            {
+                "class": "DepictionSeparatorView"
+            },
+            {
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "24.07.2023",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "22.01.2021",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"},
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Support iOS 13.x - 15.x"
+            }
+         ]
+      }
+   ],
+}
