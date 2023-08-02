@@ -100,6 +100,7 @@ SHA256: a5e82546ca660ce98bdc7e83a3d6f6cd5fb5a56752c13210788474c784a8684f
 Section: Tweaks
 Description: SponsorBlock port for youtube added no video ads no search ads no shop promotion ads red player bar
 Author: Galactic Dev / stemgrade
+Icon: https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/icon.png
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.isponsorblockplusrootless
 Name: iSponsorBlockPlus
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/isponsorblockplusrootless.json
