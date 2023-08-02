@@ -72,6 +72,7 @@
                "action":"https://twitter.com/StemGrade",
                "class":"DepictionTableButtonView"
             },
+            {
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
