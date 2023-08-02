@@ -55,6 +55,30 @@
                "xPadding": 10
             },
             {
+               "class":"DepictionSeparatorView"
+            },
+
+
+            {
+               "title":"Support",
+               "class":"DepictionHeaderView"
+            },
+
+            {
+               "title":"Via PayPal",
+               "useBoldText": true,
+               "action":"https://www.paypal.me/stem20",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
+               "title":"Follow @stemgrade",
+               "useBoldText": true,
+               "action":"https://twitter.com/StemGrade",
+               "class":"DepictionTableButtonView"
+            },
+
+            {
                 "class": "DepictionStackView",
                 "tabname": "Changelog",
                 "views": [
