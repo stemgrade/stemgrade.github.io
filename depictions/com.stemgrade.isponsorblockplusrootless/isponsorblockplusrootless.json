@@ -4,9 +4,7 @@
    "tintColor":"#fa2942",
    "tabs":[
       {
-    "class": "DepictionTabView",
-    "tabs": [
-            {
+    
                "class": "DepictionStackView",
                "tabname": "Details",
                "views":[
