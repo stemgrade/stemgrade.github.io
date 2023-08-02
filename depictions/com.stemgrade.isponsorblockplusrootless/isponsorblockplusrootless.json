@@ -1,158 +1,71 @@
-
 {
-  "class": "DepictionTabView",
-  "headerImage": "https://stemgrade.github.io/icons/SponsorBlock.png",
-  "minVersion": "0.3",
-  "tabs": [
-    {
-      "class": "DepictionStackView",
-      "tabname": "Detail",
-      "tintColor": "#1182c4",
-      "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Information",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
+    "class": "DepictionTabView",
+    "tabs": [
+            {
+               "class": "DepictionStackView",
+               "tabname": "Details",
+               "views":[
+            {
+                "itemCornerRadius": 6,
+                "class": "DepictionScreenshotsView",
+                "itemSize": "{160, 275.41333333333336}",
+                "screenshots": [
+            {
+                "accessibilityText": "Screenshot0",
+                "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/screenshots/1.jpg"
+            },
+            {
+                "accessibilityText": "Screenshot1",
+                "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/screenshots/2.jpg"
+            }]
+            },
+            {
+                "class": "DepictionMarkdownView",
                 "markdown": "<p>Compatibility iOS 10.x - 15.x not test on ios 16.x</p> SponsorBlock port for youtube added no video ads no search ads no shop promotion ads red player bar and no premuim popup i added them tweaks in to make it better</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSubheaderView",
-          "title": "Picture",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionScreenshotsView",
-          "itemCornerRadius": 8,
-          "itemSize": "{160, 275.41333333333336}",
-          "screenshots": [
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/screenshots/1.jpg"
+                "class": "DepictionSeparatorView"
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/screenshots/2.jpg"
+                "class": "DepictionHeaderView",
+                "title": "Informations",
+                "useBoldText": true
             },
             {
-              "accessibilityText": "Screenshot",
-              "url": "https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/screenshots/3.jpg"
+                "class": "DepictionTableTextView",
+                "title": "Devices",
+                "text": "iPhone"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "title": "Price",
+                "text": "Free"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "24.07.2023",
+                "title": "Last Time Updated"
+            },
+            {
+                "class": "DepictionTableTextView",
+                "text": "22.01.2021",
+                "title": "Released"
+            }],
+               "xPadding": 10
+            },
+            {
+                "class": "DepictionStackView",
+                "tabname": "Changelog",
+                "views": [
+            {
+                "class": "DepictionSubheaderView",
+                "title": "Version 1.0"},
+            {
+                "class": "DepictionMarkdownView",
+                "markdown": "- Support iOS 13.x - 15.x"
             }
-          ]
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "class": "DepictionHeaderView",
-          "title": "Extend",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 8
-        },
-        {
-          "class": "DepictionTableTextView",
-          "text": "StemGrade",
-          "title": "Author"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "text": "1,0",
-          "title": "Version"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "text": "iOS 13.x - 15.x",
-          "title": "Support"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "text": "English",
-          "title": "Language"
-        },
-        {
-          "class": "DepictionTableTextView",
-          "text": "98604 B",
-          "title": "Capacity"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "class": "DepictionSeparatorView"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        },
-        {
-          "action": "https://twitter.com/StemGrade",
-          "class": "DepictionTableButtonView",
-          "title": "Follow Twitter (@StemGrade)",
-          "openExternal": true
-        },
-        {
-          "action": "https://www.paypal.me/stem20",
-          "class": "DepictionTableButtonView",
-          "title": "Support me PayPal"
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 40
-        },
-        {
-          "URL": "https://stemgrade.github.io/CydiaIcon.png",
-          "alignment": 1,
-          "class": "DepictionImageView",
-          "cornerRadius": 0,
-          "height": 45,
-          "width": 45
-        },
-        {
-          "class": "DepictionSpacerView",
-          "spacing": 16
-        }
-      ]
-    },
-    {
-      "class": "DepictionStackView",
-      "tabname": "History",
-      "tintColor": "#1182c4",
-      "views": [
-        {
-          "class": "DepictionSubheaderView",
-          "title": "2.0.0",
-          "useBoldText": true,
-          "useBottomMargin": false
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>iSponsorBlockPlus</li>\n</ul>",
-          "useRawFormat": true
-        }
-      ]
-    }
-  ],
-  "tintColor": "#1182c4"
+         ]
+      }
+   ],
 }
