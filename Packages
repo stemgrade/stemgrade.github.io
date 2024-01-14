@@ -106,16 +106,16 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.isponsorblock
 Name: iSponsorBlockPlus
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/isponsorblockplusrootless.json
 
-Package: h.ryan.stemgrade.youtubereborn
-Version: 1.0
+Package: h.ryan.stemgrade.youtuberedeemed
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Lillie
-Installed-Size: 27008
+Installed-Size: 27120
 Filename: ./debs/youtubereborn.rootful.deb
-Size: 10601604 
-MD5sum: 2ebf7b968170a3c521166ae7a523f30e
-SHA1: bce67d08cb749115abc4c28370a8183007a8797a
-SHA256: 43bab71c4834c67e554959233e13bacc0205eaf12ec37d8b1802c5f370d45e50
+Size: 10618222 
+MD5sum: eb458370b9cefd2e44586a056de99b08
+SHA1: 81cea50964c8bf52215ff81a39c44a2c4dce623d199713ad3ec473f65529d7f0
+SHA256: 81cea50964c8bf52215ff81a39c44a2c4dce623d199713ad3ec473f65529d7f0
 Section: Tweaks
 Description: YouTube Customizer
 Author: Lillie
@@ -123,7 +123,7 @@ Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtubereborn
 Name: YouTube Reborn
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtubereborn/YouTube Reborn.json
 
-Package: h.ryan.stemgrade.youtubereborn
+Package: h.ryan.stemgrade.youtuberedeemed
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Lillie
