@@ -139,3 +139,20 @@ Author: Lillie
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade64.youtubereborn
 Name: YouTube Reborn
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade64.youtubereborn/YouTube Reborn.json
+
+Package: com.stemgrade.crunchyroll
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: stemgrade
+Installed-Size: 404
+Filename: ./debs/com.stemgrade.crunchyroll.deb
+Size: 68098  
+MD5sum: 2B7DB05AFD365F2CE3265FF15665F433
+SHA1: 5FC8F928B8A37EC0C243C08DC44AAE69F0C0F91A
+SHA256: 23F8B4F70313F542FF2D57337DB077654EC3506FFDAADE40DBD367F60EFC058F
+Section: Tweaks
+Description: crunchyroll adblocker
+Author: stemgrade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.crunchyrol
+Name: crunchyroll adblocker
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.crunchyrol/crunchyroll.json
