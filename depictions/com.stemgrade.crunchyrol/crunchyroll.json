@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 13.x - 17.x</p> <p>En: YouTube Customizer</p>",
+                "markdown": "<p>Compatibility iOS 13.x - 17.x</p> <p>crunchyroll adblocker</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -44,12 +44,12 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "10.11.2023",
+                "text": "23.02.2024",
                 "title": "Last Time Updated"
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "10.11.2023",
+                "text": "23.02.2024",
                 "title": "Released"
             }],
                "xPadding": 10
