@@ -156,3 +156,20 @@ Author: stemgrade
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.crunchyrol
 Name: crunchyroll adblocker
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.crunchyrol/crunchyroll.json
+
+Package: com.stemgrade.crunchyroll
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: stemgrade
+Installed-Size: 404
+Filename: ./debs/com.stemgrade.crunchyroll.deb
+Size: 68072  
+MD5sum: 9f9875c8931059a99d87637eb0ba15db
+SHA1: cda7c0b491b7692978712db0dbe7047482995a87
+SHA256: 8e751ea82ee1fbc1ae600dd59def1fcd57be7Eaa23bc1C0b6162b688ccda075d
+Section: Tweaks
+Description: crunchyroll adblocker
+Author: stemgrade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.crunchyrol64
+Name: crunchyroll adblocker
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.crunchyrol64/crunchyroll.json
