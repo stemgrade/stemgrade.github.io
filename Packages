@@ -107,15 +107,15 @@ Name: iSponsorBlockPlus
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/isponsorblockplusrootless.json
 
 Package: h.ryan.stemgrade.youtuberedeemed
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Lillie
-Installed-Size: 27120
+Installed-Size: 27440
 Filename: ./debs/youtubereborn.rootful.deb
-Size: 10618222 
-MD5sum: eb458370b9cefd2e44586a056de99b08
-SHA1: 81cea50964c8bf52215ff81a39c44a2c4dce623d199713ad3ec473f65529d7f0
-SHA256: 81cea50964c8bf52215ff81a39c44a2c4dce623d199713ad3ec473f65529d7f0
+Size: 10677200  
+MD5sum: f18f4a91608efc3ba8a11d0268a39f4c
+SHA1: 2bc03148686f5dd8088475d5c7a1c6b574f34141
+SHA256: 1d17d563252d279f18d6023490666641a4c5123a7e08c6621517d83e00b12cf2
 Section: Tweaks
 Description: YouTube Customizer
 Author: Lillie
@@ -124,15 +124,15 @@ Name: YouTube Reborn
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtubereborn/YouTube Reborn.json
 
 Package: h.ryan.stemgrade.youtuberedeemed
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Lillie
-Installed-Size: 27120
+Installed-Size: 27440
 Filename: ./debs/youtubereborn64.rootless.deb
-Size: 10618232 
-MD5sum: 77ec3a0306bc8b0c74b9b93539082ab0
-SHA1: 90dda5998d958518f6eff903c62f232bfb9cb9e6
-SHA256: 6fd2fd4f0579b193aa9f1f730d8e6575184b277483198ff600d15ffed368a12f
+Size: 10677280 
+MD5sum: 0d149f0c22302b9be2cd9e6f3ce54561 
+SHA1: ec47f6f6f20b015b40f0f774824736e61481590b
+SHA256: 628abfe3b7d8db16392e5af7341b55721b3e45e11478a248c81715d365b42c74
 Section: Tweaks
 Description: YouTube Customizer
 Author: Lillie
