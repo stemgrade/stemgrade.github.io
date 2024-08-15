@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 13.x - 17.x</p> <p>En: YouTube Customizer</p>",
+                "markdown": "<p>Compatibility iOS 13.x - 17.x</p> <p>En: YouTube Redeemed</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
@@ -44,7 +44,7 @@
             },
             {
                 "class": "DepictionTableTextView",
-                "text": "10.11.2023",
+                "text": "14.08.2024",
                 "title": "Last Time Updated"
             },
             {
