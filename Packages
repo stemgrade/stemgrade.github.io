@@ -107,38 +107,38 @@ Name: iSponsorBlockPlus
 Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.isponsorblockplusrootless/isponsorblockplusrootless.json
 
 Package: stemgrade.youtuberedeemed
-Version: 1.3
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: StemGrade
-Installed-Size: 27444
-Filename: ./debs/youtubereborn.rootful.deb
-Size: 10682050  
-MD5sum: 6949f3980da376e5c35c384c2037d608
-SHA1: 02c73f2bf2a45d95f3ba63cb254af7157a82c58a
-SHA256: 94cf5d58801dfbee18665b58869efcd2a3ae8e84c46aa48205b0d3b4ecff8a8e
+Installed-Size: 24964
+Filename: ./debs/youtuberedeemed.deb
+Size: 8997128  
+MD5sum: 9ff100f8aecc603650ee07689bbc9cde
+SHA1: c878115476599eb5477be23c736dfb36cee30c95
+SHA256: 5d61ddfdd0b8db257fb5c83af6844487fdf3f50b0f5297a782e23cac50136615
 Section: Tweaks
 Description: YouTube Redeemed
 Author: StemGrade
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtubereborn
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtuberedeemed
 Name: YouTube Redeemed
-Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtubereborn/YouTube Reborn.json
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtuberedeemed/YouTube Redeemed.json
 
-Package: h.ryan.stemgrade.youtuberedeemed
-Version: 1.2
+Package: stemgrade.youtuberedeemed
+Version: 1.4
 Architecture: iphoneos-arm64
-Maintainer: Lillie
-Installed-Size: 27440
-Filename: ./debs/youtubereborn64.rootless.deb
-Size: 10677280 
-MD5sum: 0d149f0c22302b9be2cd9e6f3ce54561 
-SHA1: ec47f6f6f20b015b40f0f774824736e61481590b
-SHA256: 628abfe3b7d8db16392e5af7341b55721b3e45e11478a248c81715d365b42c74
+Maintainer: StemGrade
+Installed-Size: 24964
+Filename: ./debs/youtuberedeemed64.deb
+Size: 8996988 
+MD5sum: 277e5e22c41a3e09b01b02d01f668a0d 
+SHA1: a2b82b49557ca42d2b47f6d5f0e8fe62fe2c1178
+SHA256: c86170d433afe92de4d2abc744da31329bf9c591fe05aafb0c4a2a36886c28d2
 Section: Tweaks
-Description: YouTube Customizer
-Author: Lillie
-Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade64.youtubereborn
-Name: YouTube Reborn
-Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade64.youtubereborn/YouTube Reborn.json
+Description: YouTube Redeemed
+Author: StemGrade
+Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtuberedeemed64
+Name: YouTube Redeemed
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtuberedeemed64/YouTube Redeemed.json
 
 Package: com.stemgrade.crunchyroll
 Version: 1.0
