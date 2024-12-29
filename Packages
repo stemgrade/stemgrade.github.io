@@ -121,7 +121,7 @@ Description: YouTube Redeemed
 Author: StemGrade
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtuberedeemed
 Name: YouTube Redeemed
-Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtuberedeemed/YouTube Redeemed.json
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtuberedeemed/YouTubeRedeemed.json
 
 Package: stemgrade.youtuberedeemed
 Version: 1.4
@@ -138,7 +138,7 @@ Description: YouTube Redeemed
 Author: StemGrade
 Depiction: https://stemgrade.github.io/depictions/?p=com.stemgrade.youtuberedeemed64
 Name: YouTube Redeemed
-Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtuberedeemed64/YouTube Redeemed.json
+Sileodepiction: https://stemgrade.github.io/depictions/com.stemgrade.youtuberedeemed64/YouTubeRedeemed.json
 
 Package: com.stemgrade.crunchyroll
 Version: 1.0
