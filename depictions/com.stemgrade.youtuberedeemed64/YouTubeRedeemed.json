@@ -21,7 +21,7 @@
             },
             {
                 "class": "DepictionMarkdownView",
-                "markdown": "<p>Compatibility iOS 13.x - 17.x</p> <p>En: YouTube Redeemed</p>",
+                "markdown": "<p>Compatibility iOS 13.x - 17.x</p> <p>YouTube Redeemed</p>",
                 "useSpacing": true,
                 "useRawFormat": true},
             {
